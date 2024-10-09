@@ -1,1 +1,0 @@
-### AI_IoT_SMK7_F dev1
